@@ -1,0 +1,33 @@
+.t,
+.t > th,
+.t > td {
+    background-color: rgba(212, 188, 140, 0.52);
+}
+.tt,
+.tt > th,
+.tt > td {
+    background-color: rgb(156, 255, 159);
+}
+.t1,
+.t1 > th,
+.t1 > td {
+    background-color: rgb(252, 255, 116);
+}
+.t2,
+.t2 > th,
+.t2 > td {
+    background-color: rgb(255, 133, 133);
+}
+.t3,
+.t3 > th,
+.t3 > td {
+    background-color: rgb(215, 215, 187);
+}
+.t4,
+.t4 > th,
+.t4 > td {
+    background-color: rgba(146, 149, 114, 0.52);
+}
+
+
+

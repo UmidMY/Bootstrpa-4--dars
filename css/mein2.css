@@ -1,0 +1,26 @@
+.m{
+    margin-left: 28rem;
+    margin-top: 0.5rem;
+}
+.mm{
+    padding: 5px 15px;
+    background-color: red;
+}
+.b{
+    font-size: 2rem;
+}
+.h{
+    font-size: 3.8rem;
+    margin-left: 2rem;
+}
+.bg{
+    background: linear-gradient(90deg, rgba(0, 144, 222, 0.99), #1ec4ff);
+}
+.bb{
+    margin-left: 25rem;
+    padding: 0.5rem 2rem;
+    font-size: 1.2rem;
+    border: 3px solid white;
+    border-radius: 0;
+    margin-bottom: 10rem;
+}

@@ -1,0 +1,21 @@
+.tt{
+    background-color: #062c33;
+    padding-left: 25rem;
+}
+.t{
+    background-color:#062c33;
+    font-size: 1.5rem;
+}
+.tb{
+    max-width: 86%;
+    margin-left: 1px;
+}
+.b{
+    padding: 0.050rem 0.45em;
+}
+.b2{
+    background-color: #1dc795;
+}
+table{
+    box-shadow: 1px 1px 5px gray;
+}

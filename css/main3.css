@@ -1,0 +1,10 @@
+.bg{
+    margin-top: 5rem;
+    background: linear-gradient(90deg,#00a3fc, #09e8a9);
+    box-shadow: 0px 3px 25px #0078bd;
+}
+.bt{
+    border-radius: 25px;
+    padding: 5px 20px;
+    margin-left: 27rem;
+}
